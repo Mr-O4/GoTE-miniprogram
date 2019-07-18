@@ -18,13 +18,15 @@
 
 <div align="center" >
 	<!--version-->
-	<img alt="version" src="https://img.shields.io/badge/version-v1.0-green.svg?style=for-the-badge"/>
+    <a href="https://github.com/TCP404/GoTE-miniprogram/releases/tag/v1.0" target="blank">
+		<img alt="GitHub release" src="https://img.shields.io/github/release/TCP404/GoTE-miniprogram.svg?color=1296DB&style=for-the-badge"/>
+    </a>
 	<!--repo size-->
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TCP404/GoTE-miniprogram.svg?color=green&style=for-the-badge">
     <!--license-->
     <img alt="GitHub" src="https://img.shields.io/github/license/TCP404/GoTE-miniprogram.svg?color=green&style=for-the-badge">
     <!--platform-->
-    <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html">
+    <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html" target="blank">
     	<img alt="platform" src="https://img.shields.io/badge/platform-wechat-black.svg?style=for-the-badge"/>
     </a>
 </div>
