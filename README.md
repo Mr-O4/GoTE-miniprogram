@@ -6,7 +6,7 @@
 <h1 align="center">GoTE</h1>
 <div align="center">
   <a href="https://blog.tcp404.com">
-    <img src="https://img.shields.io/badge/BLOG-TCP404-1296DC.svg?style=for-the-badge" alt="twitter">
+    <img src="README/blog.svg" alt="BLOG">
   </a>
 </div><br/>
 <div align="center">
@@ -19,15 +19,15 @@
 <div align="center" >
 	<!--version-->
     <a href="https://github.com/TCP404/GoTE-miniprogram/releases/tag/v1.0" target="blank">
-		<img alt="GitHub release" src="https://img.shields.io/github/release/TCP404/GoTE-miniprogram.svg?color=1296DB&style=for-the-badge"/>
+		<img alt="GitHub release" src="README/release.svg"/>
     </a>
 	<!--repo size-->
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TCP404/GoTE-miniprogram.svg?color=green&style=for-the-badge">
+    <img alt="GitHub repo size" src="README/repo-size.svg">
     <!--license-->
-    <img alt="GitHub" src="https://img.shields.io/github/license/TCP404/GoTE-miniprogram.svg?color=green&style=for-the-badge">
+    <img alt="GitHub" src="README/license.svg">
     <!--platform-->
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html" target="blank">
-    	<img alt="platform" src="https://img.shields.io/badge/platform-wechat-black.svg?style=for-the-badge"/>
+    	<img alt="platform" src="README/platform.svg"/>
     </a>
 </div>
 
